@@ -31,4 +31,24 @@ Remote keyless entry (RKE) are implemented to prevent thieft of vehicles.
 ### HOW
 By implementing the Remote keyless entry (RKE) system.
 
+## 2. REQUIREMENTS
+## 2.1 HIGH LEVEL REQUIREMENT
+|**HLR ID**| **DESCRIPTION**| **STATUS**|
+|-|-|-|
+HLR1| System shall have transmitter section| Implemented
+HLR2| System shall have receiver section| Implemented
+HLR3| System shall **lock** the car door automatically|  Implemented
+HLR4|  System shall **unlock** the car door automatically| Implemented
+HLR5| System shall **activate/ deactivate** alarm| Implemented
+HLR6| System shall **approach light**| Implemented
+
+## 2.2 LOW LEVEL REQUIREMENT
+|**LLR ID**| **HLR ID**| **DESCRIPTION**| **STATUS**|
+|-|-|-|-|
+LLR1| HLR1| System shall have **RKE fob** as transmitter|Implemented
+LLR2| HLR2| System shall have **Body Control ECU** as receiver|Implemented
+LLR3|HLR3| System shall have all **LEDs ON** at same time indicating **lock**| Implemented
+LLR4| HLR4| System shall have all **LEDs OFF** at same time indicating **unlock**| Implemented
+LLR5|HLR5| System shall have all LEDs ON in **clockwise** manner at same time indicating **alarm activation/deactivation**| Implemented
+LLR6|HLR6| System shall have all LEDs ON in **anticlockwise** manner at same time indicating **light approach**| Implemented
 
