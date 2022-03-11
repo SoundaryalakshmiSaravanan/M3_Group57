@@ -1,6 +1,6 @@
 # Test cases 
 
-## High level requirements
+## High level test plan
 
 **Test ID** | **Expected Output** |Actual output|**Status**
 -|-|-|-
@@ -11,7 +11,7 @@ T04 |  display the status of door | Displayed status of door| Pass
 
 <br>
 
-### Low level requirements
+### Low level test plan
 
 **Test ID** | **Expected Output** |Actual output|**Status**
 -|-|-|-
