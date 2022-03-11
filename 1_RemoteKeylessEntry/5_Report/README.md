@@ -19,7 +19,9 @@
    3.1 High Level Diagram
    
    3.2 Low Level Diagram
-   
+## 4. Test Plan And Output
+   4.1 High Level Test Plan
+   4.2 Low Level Test Plan
 
 
 
@@ -82,6 +84,26 @@ LLR3|HLR3| System shall have all **LEDs ON** at same time indicating **lock** |
 LLR4| HLR4| System shall have all **LEDs OFF** at same time indicating **unlock**
 LLR5|HLR5| System shall have all LEDs ON in **clockwise** manner at same time indicating **alarm activation/deactivation** |
 LLR6|HLR6| System shall have all LEDs ON in **anticlockwise** manner at same time indicating **light approach**
+# 3. ARCHITECTURE
+## 3.1 BEHAVIORAL DIAGRAM
+## HIGH LEVEL DIAGRAM
+#### BLOCK DIAGRAM
+![blockdia (1) drawio](https://user-images.githubusercontent.com/98818008/157805694-ef33daaf-6844-4869-a2c6-a1d666d452fa.png)
+
+
+
+## LOW LEVEL DIAGRAM
+![beh high drawio (1)](https://user-images.githubusercontent.com/98818008/157800003-1ca0be9a-f1b7-460b-8d04-6bda3cc4a0d0.png)
+
+## 3.2 STRUCTURAL DIAGRAM
+## HIGH LEVEL USER CASE DIAGRAM
+![usercase drawio](https://user-images.githubusercontent.com/98818008/157808384-845159c8-b61e-4908-9326-91943e25e5e4.png)
+
+
+
+## LOW LEVEL DIAGRAM
+![lowlevelbehav drawio (1)](https://user-images.githubusercontent.com/98818008/157803519-95f9873d-291c-41cc-9e81-245d2146d292.png)
+
 # 4. TEST PLAN AND OUTPUT
 ## 4.1 HIGH LEVEL TEST PLAN
 **TEST ID**| **DESCRIPTION**| **EXPECTED OUTPUT**| **ACTUAL OUTPUT**| **PASS/FAIL**
