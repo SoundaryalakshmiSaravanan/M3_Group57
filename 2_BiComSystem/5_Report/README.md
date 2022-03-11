@@ -57,8 +57,8 @@ Remote system can replace traditional systems to make the process easy, simple a
 ### How
 By deploying the particular system into automotives , the key features can be implemented
 
-## 2 REQUIREMENTS
-### 2.1 HIGH LEVEL REQUIREMENTS
+# 2. REQUIREMENTS
+## 2.1 HIGH LEVEL REQUIREMENTS
 
 **HLR ID** | **DESCRIPTION**
 -|-
@@ -67,7 +67,7 @@ HLR02 | It shall display the status of alarm
 HLR03 | It shall display the information of battery
 HLR04 | It shall display the status of door
 
-### 2.2 LOW LEVEL REQUIREMENTS
+## 2.2 LOW LEVEL REQUIREMENTS
 
 **LLR ID** | **DESCRIPTION** | **HLR ID** |  
 -|-|-
@@ -80,7 +80,7 @@ LLR3.2 |  As per assigned button press LED's shall be on in antiClockwise Manner
 LLR4.1 |  As per assigned button press LED's shall glow in a manner of Green->Orange->Red->Blue| HLR04
 LLR4.2 |  As per assigned button press LED's shall glow in a manner of Green->Blue->Red->Orange | HLR04
 
-# 3 ARCHITECTURE
+# 3. ARCHITECTURE
 ## 3.1 BEHAVIORAL DIAGRAM
 ###  BLOCK DIAGRAM
 ![blockdia (1) drawio (1)](https://user-images.githubusercontent.com/98818008/157857040-aa8f6e5a-17ab-45b2-b554-296dc095c875.png)
@@ -96,11 +96,11 @@ LLR4.2 |  As per assigned button press LED's shall glow in a manner of Green->Bl
 ### LOW LEVEL USER CASE DIAGRAM
 ![lowlevelbehav drawio (1) drawio](https://user-images.githubusercontent.com/98818008/157859840-33d38736-b612-4112-bb71-abe4c8b80c7e.png)
 
-# Test cases 
+# 4. TEST PLAN AND OUTPUT
 
-## High level test plan
+##  4.1 HIGH LEVEL TEST PLAN
 
-**Test ID** | **Expected Output** |Actual output|**Status**
+**Test ID** | **Expected Output** |**Actual output**|**Status**
 -|-|-|-
 T01 |  display the status of window| Displayed window status| Pass
 T02 |  display the status of alarm |Displayed alarm status| Pass
@@ -109,7 +109,7 @@ T04 |  display the status of door | Displayed status of door| Pass
 
 <br>
 
-### Low level test plan
+## 4.2 LOW LEVEL TEST PLAN
 
 **Test ID** | **Expected Output** |Actual output|**Status**
 -|-|-|-
