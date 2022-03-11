@@ -82,4 +82,20 @@ LLR3|HLR3| System shall have all **LEDs ON** at same time indicating **lock** |
 LLR4| HLR4| System shall have all **LEDs OFF** at same time indicating **unlock**
 LLR5|HLR5| System shall have all LEDs ON in **clockwise** manner at same time indicating **alarm activation/deactivation** |
 LLR6|HLR6| System shall have all LEDs ON in **anticlockwise** manner at same time indicating **light approach**
+# 4. TEST PLAN AND OUTPUT
+## 4.1 HIGH LEVEL TEST PLAN
+**TEST ID**| **DESCRIPTION**| **EXPECTED OUTPUT**| **ACTUAL OUTPUT**| **PASS/FAIL**
+|-|-|-|-|-|
+|T_01| Lock the car door when the button is pressed once| Door locks|Door locks| Pass 
+T_02| Unlock the car door when the button is pressed twice| Door unlocks| Door unlocks|Pass
+T_03| Alarm activates/deactivates when the button is pressed thrice| Alarm activates/deactivates|Alarm activates/deactivates|Pass
+T_04| Approach light when button is pressed four times| Approach light| Approach light|Pass
+
+## 4.2 LOW LEVEL TEST PLAN
+**TEST ID**| **DESCRIPTION**| **EXPECTED OUTPUT**| **ACTUAL OUTPUT**| **PASS/FAIL**
+|-|-|-|-|-|
+T_01| Door lock status| All LED's ON|All LED's ON|Pass
+T_02| Door Unlock status| All LED's OFF|All LED's OFF| Pass
+T_03| Door alarm status| All LED's ON in clocwise direction|All LED's ON in clocwise direction| Pass
+T_04| Approach light status| All LED's ON in anticlockwise direction|All LED's ON in anticlockwise direction| Pass
 
