@@ -26,7 +26,7 @@
 |-|-|
 |  1_Requirements | README.md (Introduction, 5W's & 1H, S.W.O.T,Requirements)  |
 |  2_Architecture | README.md (Behavioral Diagrams,Structural UML Diagram) |
-|  3_Implementation | in|
+|  3_Implementation | Files related to implementation|
 |  4_TestPlanAndOutput | README.md (High level and Low level Test plan) |
 |  5_Report | Updated in README.md |
 |  6_ImagesAndVideos | All images used in repository |
@@ -39,7 +39,7 @@
 |-|-|
 |  1_Requirements | README.md (Inroduction, 5W's & 1H, S.W.O.T, Requirements)  |
 |  2_Architecture | README.md (Behavioral Diagrams, Structural UML Diagram) |
-|  3_Implementation | README.md |
+|  3_Implementation | Files related to implementation |
 |  4_TestPlanAndOutput | README.md(High level and Low level Test plan) |
 |  5_Report | Updated in README.md |
 |  6_ImagesAndVideos | All images used in repository |
