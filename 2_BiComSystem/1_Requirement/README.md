@@ -1,5 +1,5 @@
 # Bicom System
-BiCom System is designed to remotely know the statues of your automobiles, BiCom System operates by broadcasting radio waves on a particular frequency bidirectionally.
+BiCom System is designed to remotely know the statues of your automobiles, BiCom System operates by broadcasting radio waves on a particular frequency.
 
 ## Identifying features
 1. It shall display the status of Window on one user click
@@ -15,7 +15,7 @@ BiCom System is designed to remotely know the statues of your automobiles, BiCom
 The people who want the smart system equipped vehicle
 
 ### What
-This system which can send and receive the data of car or a vehicle through wireless medium. the information is being displayed on LED display
+This system which can send the data of car or a vehicle through wireless medium. the information is being displayed on LED display
 
 ### When 
 Whenever the vehicle owner wants to operate the some features of car through remotively
