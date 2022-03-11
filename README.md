@@ -4,8 +4,8 @@
 | CONTENTS | DONE BY |
 |-|-|
 | 1_Requirement|Soundaryalakshmi & Gurukiran |
-| 2_Architecture| Soundaryalakshmi & Rajashekar |
-| 3_Implementation |Hrishikesh with help of  Rajashekar, Soundaryalakshmi, Gurukiran  |
+| 2_Architecture| Soundaryalakshmi & Rajasekhar |
+| 3_Implementation |Hrishikesh with help of  Rajasekhar, Soundaryalakshmi, Gurukiran  |
 | 4_TestAndOutput |Rajashekar & Hrishikesh |
 | 5_Report|Hrishikesh   
 
@@ -13,9 +13,9 @@
 | CONTENTS| DONE BY |
 |-|-|
 | 1_Requirement |Soundaryalakshmi & Gurukiran |
-| 2_Architecture| Soundaryalakshmi & Rajashekar |
-| 3_Implementation |Hrishikesh with help of  Rajashekar, Soundaryalakshmi, Gurukiran  |
-| 4_TestAndOutput |Rajashekar & Gurukiran  |
+| 2_Architecture| Soundaryalakshmi & Rajasekhar |
+| 3_Implementation |Hrishikesh with help of  Rajasekhar, Soundaryalakshmi, Gurukiran  |
+| 4_TestAndOutput |Rajasekhar & Gurukiran  |
 | 5_Report|Hrishikesh 
 
 
