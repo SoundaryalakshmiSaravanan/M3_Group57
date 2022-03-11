@@ -11,3 +11,6 @@ T_04| Approach light when button is pressed four times| Approach light| Approach
 **TEST ID**| **DESCRIPTION**| **EXPECTED OUTPUT**| **ACTUAL OUTPUT**| **PASS/FAIL**
 |-|-|-|-|-|
 T_01| Door lock status| All LED's ON|All LED's ON|Pass
+T_02| Door Unlock status| All LED's OFF|All LED's OFF| Pass
+T_03| Door alarm status| All LED's ON in clocwise direction|All LED's ON in clocwise direction| Pass
+T_04| Approach light status| All LED's ON in anticlockwise direction|All LED's ON in anticlockwise direction| Pass
