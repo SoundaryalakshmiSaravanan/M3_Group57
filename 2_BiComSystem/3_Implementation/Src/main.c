@@ -4,6 +4,7 @@
  */
 #include "MyStm32f407xx.h"
 
+//Declaring a variable button(btn)
 #define btn ENABLE
 
 // Delay Initialization
