@@ -1,7 +1,7 @@
 # M3_Group57
 
 ## 1_Remote Keyless Entry
-| Contents | DONE By |
+| CONTENTS | DONE BY |
 |-|-|
 | 1_Requirement|Soundaryalakshmi & Gurukiran |
 | 2_Architecture| Soundaryalakshmi & Rajashekar |
@@ -10,7 +10,7 @@
 | 5_Report|Hrishikesh   
 
 ## BICOM SYSTEM
-| Contents | DONE By |
+| CONTENTS| DONE BY |
 |-|-|
 | 1_Requirement |Soundaryalakshmi & Gurukiran |
 | 2_Architecture| Soundaryalakshmi & Rajashekar |
