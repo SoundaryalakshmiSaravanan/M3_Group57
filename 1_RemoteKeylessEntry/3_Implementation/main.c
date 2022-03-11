@@ -1,5 +1,5 @@
 /*
-  The is the Project Main.c file by Group 57
+  This is the Project Main.c file by Group 57
  For Remote Keyless Entry (RKE)
  */
 #include "MyStm32f407xx.h"
