@@ -1,16 +1,25 @@
 # TABLE OF CONTENTS
 ## 1. Intoduction
    1.1 Abstract
+   
    1.2 Defining our system
+   
    1.3 Features of our system
+   
    1.4 SWOT Analysis
+   
    1.5 4 W's & 1H
+   
 ## 2. Requirements
    2.1 High Level Requirement
+   
    2.2 Low Level Requirement
+   
 ## 3. Architecture
    3.1 High Level Diagram
+   
    3.2 Low Level Diagram
+   
 
 
 
