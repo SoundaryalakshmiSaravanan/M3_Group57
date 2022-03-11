@@ -1,12 +1,23 @@
 # M3_Group57
-<br>
 
+## 1_Remote Keyless Entry
 | Contents | DONE By |
-|--|--|
-| 1_RemoteKeylessEntry code 3_Implementation | pending |
-| 1_RemoteKeylessEntry Git Repo contents | p |
-| 2_BiComSystem code 3_Implementation | p |
-| 2_BiComSystem Git Repo contents | p |
+|-|-|
+| 1_Requirement|Soundaryalakshmi & Gurukiran |
+| 2_Architecture| Soundaryalakshmi & Rajashekar |
+| 3_Implementation |Hrishikesh with help of  Rajashekar, Soundaryalakshmi, Gurukiran  |
+| 4_TestAndOutput |Rajashekar & Hrishikesh |
+| 5_Report|Hrishikesh   
+
+## BICOM SYSTEM
+| Contents | DONE By |
+|-|-|
+| 1_Requirement |Soundaryalakshmi & Gurukiran |
+| 2_Architecture| Soundaryalakshmi & Rajashekar |
+| 3_Implementation |Hrishikesh with help of  Rajashekar, Soundaryalakshmi, Gurukiran  |
+| 4_TestAndOutput |Rajashekar & Gurukiran  |
+| 5_Report|Hrishikesh 
+
 
 ## Remote Keyless Entry (RKE)
 <br>
