@@ -1,5 +1,5 @@
 /*
- The is the Project Main.c file by Group 57
+ This is the Project Main.c file by Group 57
  For BiCom System
  */
 #include "MyStm32f407xx.h"
