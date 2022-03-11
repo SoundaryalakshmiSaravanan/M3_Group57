@@ -11,6 +11,8 @@
 
 ## 3.2 STRUCTURAL DIAGRAM
 ## HIGH LEVEL USER CASE DIAGRAM
+![usercase drawio](https://user-images.githubusercontent.com/98818008/157808384-845159c8-b61e-4908-9326-91943e25e5e4.png)
+
 
 
 ## LOW LEVEL DIAGRAM
