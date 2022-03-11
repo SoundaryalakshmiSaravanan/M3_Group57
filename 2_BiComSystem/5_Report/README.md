@@ -35,6 +35,7 @@ which moniters the status of window, alloem,battery and alarm of thye vehicle an
 4.it shall display the status of door of the car on four clicks
 
 ### SWOT Analysis
+![Screenshot (39)](https://user-images.githubusercontent.com/98815258/157863779-7181ad47-07dd-4c25-a2ae-31468c94e6a4.png)
 
 ### 5W's & 1H
 
@@ -84,11 +85,15 @@ LLR4.2 |  As per assigned button press LED's shall glow in a manner of Green->Bl
 
 ## Behavioural Diagram
 ### HLR Diagram
+![blockdia (1) drawio (1)](https://user-images.githubusercontent.com/98818008/157857040-aa8f6e5a-17ab-45b2-b554-296dc095c875.png)
 ### LLR Diagram
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/98818008/157856589-188e1bdc-13b4-4e67-ac23-7e2084d8fc3d.png)
 
 ## Structural Diagram
 ### HLR Diagram
+![usercase drawio (1)](https://user-images.githubusercontent.com/98818008/157857884-ff874322-2592-43d7-b31c-769283f3a52c.png)
 ### LLR Diagram
+![lowlevelbehav drawio (1) drawio](https://user-images.githubusercontent.com/98818008/157859840-33d38736-b612-4112-bb71-abe4c8b80c7e.png)
 <br>
 
 ## Test Plan and Output
