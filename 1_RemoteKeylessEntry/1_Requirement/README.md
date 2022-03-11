@@ -11,7 +11,7 @@ The System consist of a transmitter and a receiver. The receiver consist of **ke
 
 2. System shall automatically unlock the car door when the button is pressed **twice**.
 
-3. System shall activate or deactivate the alarm when the button is pressed **thrice**.
+3. System shall activate or deactivate the alarm when the button is pressed **three times**.
 
 4. System shall approach light when the button is pressed **four times**.
 
