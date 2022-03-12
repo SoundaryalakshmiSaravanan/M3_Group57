@@ -44,7 +44,7 @@ HLR04 | It shall display the status of door
 
 ### 2.2 LOW LEVEL REQUIREMENTS
 
-**LLR ID** | **DESCRIPTION** | **HLR ID** |  
+**LLR ID** | **DESCRIPTION** | **HLR ID**   
 -|-|-
 LLR1.1 |  As per assigned button press all LED's shall be on | HLR01
 LLR1.2 |  As per assigned button press all LED's shall be off | HLR01
