@@ -86,7 +86,7 @@ int main(void)
 			GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15, 0);
 		}
 
-		if(count==9) //If the button is pressed Thrice - LEDs should glow in clockwise
+		if(count==9) //If the button is pressed Thrice - All LEDs should glow in clockwise
 		{
 			delay();
 			GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
@@ -103,7 +103,7 @@ int main(void)
 			delay();
 		}
 
-		if(count==12) //If the button is pressed Four times - LEDs should glow in Anticlockwise
+		if(count==12) //If the button is pressed Four times - All LEDs should glow in Anticlockwise
 		{
 			GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
 			delay();
