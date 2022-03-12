@@ -63,7 +63,7 @@ int main(void)
 
 	while(1)
 	{
-		//Checking the button how many times pressed
+		//Checking the number of times the button is pressed
 		if(GPIO_ReadFromInputPin(GPIOA, GPIO_PIN_NO_0) == btn)
 		{
 			count++;
