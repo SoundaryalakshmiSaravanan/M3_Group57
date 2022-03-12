@@ -40,20 +40,20 @@ Implementing the Remote keyless entry (RKE) system to unlock/lock the functionin
 
 |**HLR ID**| **DESCRIPTION**
 -|-
-HLR1| System shall have transmitter section |
-HLR2| System shall have receiver section |
-HLR3| System shall **lock** the car door automatically |
-HLR4|  System shall **unlock** the car door automatically |
-HLR5| System shall **activate/ deactivate** alarm |
-HLR6| System shall have **approach light** |
+HLR1| System shall have transmitter section 
+HLR2| System shall have receiver section 
+HLR3| System shall **lock** the car door automatically 
+HLR4|  System shall **unlock** the car door automatically 
+HLR5| System shall **activate/ deactivate** alarm 
+HLR6| System shall have **approach light** 
 
 ### 2.2   LOW LEVEL REQUIREMENT
-|**LLR ID**| **HLR ID**| **DESCRIPTION** |
+|**LLR ID**| **HLR ID**| **DESCRIPTION** 
 |-|-|-
-LLR1| HLR1| System shall have **RKE fob** as transmitter |
+LLR1| HLR1| System shall have **RKE fob** as transmitter 
 LLR2| HLR2| System shall have **Body Control ECU** as receiver
-LLR3|HLR3| System shall have all **LEDs ON** at same time indicating **lock** |
+LLR3|HLR3| System shall have all **LEDs ON** at same time indicating **lock** 
 LLR4| HLR4| System shall have all **LEDs OFF** at same time indicating **unlock**
-LLR5|HLR5| System shall have all LEDs ON in **clockwise** manner at same time indicating **alarm activation/deactivation** |
+LLR5|HLR5| System shall have all LEDs ON in **clockwise** manner at same time indicating **alarm activation/deactivation** 
 LLR6|HLR6| System shall have all LEDs ON in **anticlockwise** manner at same time indicating **light approach**
 
