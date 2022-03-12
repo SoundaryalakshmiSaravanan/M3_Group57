@@ -4,6 +4,7 @@
 Codiga | Codacy
 -|-
 ![image](https://user-images.githubusercontent.com/98815258/157953056-bafce4e4-152e-4714-914d-b856ed7850b6.png) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/66d249162342434d89bc0e8d3cd9b808)](https://www.codacy.com/gh/rajasekhart01/M3_Group57/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rajasekhart01/M3_Group57&amp;utm_campaign=Badge_Grade)
+<br>
 
 [![Manual workflow](https://github.com/rajasekhart01/M3_Group57/actions/workflows/manual.yml/badge.svg)](https://github.com/rajasekhart01/M3_Group57/actions/workflows/manual.yml)
 
@@ -15,6 +16,8 @@ Codiga | Codacy
 | 3_Implementation |Hrishikesh with help of  Rajasekhar, Soundaryalakshmi, Gurukiran  |
 | 4_TestAndOutput |Rajashekar & Hrishikesh |
 | 5_Report|Hrishikesh   
+<br>
+<br>
 
 ## BICOM SYSTEM
 | CONTENTS| DONE BY |
@@ -25,6 +28,8 @@ Codiga | Codacy
 | 4_TestAndOutput |Rajasekhar & Gurukiran  |
 | 5_Report|Hrishikesh 
 
+## Folder Structure
+<br>
 
 ## Remote Keyless Entry (RKE)
 <br>
